@@ -1,0 +1,9 @@
+{
+	"name": "ADF-BBG-Test",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "afbb3470-5e65-4b24-879c-cc04268bb54c",
+		"tenantId": "ae65f568-0ceb-42c2-9dda-731b9c16e6b4"
+	}
+}
